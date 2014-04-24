@@ -5,11 +5,18 @@
 	<key>changed</key>
 	<dict>
 		<key>content</key>
-		<string>TRIANGLE [$1]</string>
+		<string>shape ${1:shape}
+rule {
+	$2
+}</string>
+		<key>name</key>
+		<string>Shape</string>
+		<key>tabTrigger</key>
+		<string>sh</string>
 	</dict>
 	<key>isDelta</key>
 	<true/>
 	<key>uuid</key>
-	<string>4EC28B62-2040-4FD2-99FF-6ECE813E4A84</string>
+	<string>EC3768EB-333C-4EB1-815A-1786F475DB89</string>
 </dict>
 </plist>

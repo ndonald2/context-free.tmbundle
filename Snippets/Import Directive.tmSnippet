@@ -5,11 +5,13 @@
 	<key>changed</key>
 	<dict>
 		<key>content</key>
-		<string>TRIANGLE [$1]</string>
+		<string>import ${1:${2:file}.cfdg}</string>
+		<key>name</key>
+		<string>Import Directive</string>
 	</dict>
 	<key>isDelta</key>
 	<true/>
 	<key>uuid</key>
-	<string>4EC28B62-2040-4FD2-99FF-6ECE813E4A84</string>
+	<string>6545F453-C10C-4495-97AC-119FEDE9E877</string>
 </dict>
 </plist>
